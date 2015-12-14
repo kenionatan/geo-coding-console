@@ -1,0 +1,15 @@
+c:\users\keniopc\documents\visual studio 2015\Projects\teste01\teste01\bin\Debug\teste01.exe.config
+c:\users\keniopc\documents\visual studio 2015\Projects\teste01\teste01\bin\Debug\teste01.exe
+c:\users\keniopc\documents\visual studio 2015\Projects\teste01\teste01\bin\Debug\teste01.pdb
+c:\users\keniopc\documents\visual studio 2015\Projects\teste01\teste01\obj\Debug\teste01.csprojResolveAssemblyReference.cache
+c:\users\keniopc\documents\visual studio 2015\Projects\teste01\teste01\obj\Debug\teste01.exe
+c:\users\keniopc\documents\visual studio 2015\Projects\teste01\teste01\obj\Debug\teste01.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\teste01\teste01\bin\Debug\teste01.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\teste01\teste01\obj\Debug\teste01.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\teste01\teste01\obj\Debug\teste01.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\teste01\teste01\bin\Debug\teste01.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\teste01\teste01\bin\Debug\teste01.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\teste01\teste01\obj\Debug\teste01.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHubVisualStudio\geo-coding-console\teste01\bin\Debug\teste01.exe.config
+C:\Users\Administrador\Documents\GitHubVisualStudio\geo-coding-console\teste01\obj\Debug\teste01.exe
+C:\Users\Administrador\Documents\GitHubVisualStudio\geo-coding-console\teste01\obj\Debug\teste01.pdb
